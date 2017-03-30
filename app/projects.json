@@ -4,13 +4,13 @@
       "title": "Foodvisor Android",
       "description": "Android application from scratch",
       "keywords": ["React Native"],
-      "img": "https://mail-attachment.googleusercontent.com/attachment/u/0/?ui=2&ik=a49b73ffb4&view=att&th=15b19ce58a0e211f&attid=0.1&disp=safe&realattid=1563203046921469952-local0&zw&saddbat=ANGjdJ-FIvJrzbGY0qUJ3bvJQkC_HEyQGZSqyNHoa3KcFCN9YP7v54SFfIHBv07LwDJOfsBi2rdAuvuPRfC9rqDy6yNah7xeHVoEWrw5pDcG4Z55ZHCMWUZ7TsOlfnyrGP0Tsgns5Yyxm8ea2_Cc2QAgrkyifHZn4HK4Fql60f2zNmoycQxl4UGCIpXcqfSB1uya3dHWjRG75meOaHpRuWj3WS5TjP7M-6JbfqjWDkrQfQt0sAvNeyi85BMn3l8MdZpQEzSZZoaqkrnPzHLINfqyfDTm21yYtHMTJA3ZkR4aqn1bAbDMWschlTgYOEM9zdFILq4ylTh2pgXRKW8VFAfTcuLiaUVdZAixJeOcxfbPeDnzoB32ny8yxKggtQJEd6fcScsaT_unMc3Lo0PsLuTTW67GTxJkDVyV3e3ufJmnmzF3kldn8uKL4ZDgJyczuR-ojaVlIP8kA_JBrWV0e4PZ0ubctLvJls1X6gvAROOXExfYg6y64XgjhY8nGtkxLP1PTzbl1nEuo1zVhyZe_ylRfX1_bQgGiIjDfQ5pu1NAK5zUMdbl58AZdiZ473j4NJn7hd4duNrvw6Se34RtBFdbHhZkfsAGnHtWKQFnRXRgWvhGpkurmgS5x1T4aNlDn3ALZHru3C8vGkb_tbyRMRDCudhcmJQBvDpK8mOvgw"
+      "img": "/img/projects/foodvisor.png"
     },
     {
       "title": "The Runship",
       "description": "Fullstack mobile application from scratch",
       "keywords": ["NodeJS", "MongoDB", "Redis", "Docker", "Kubernetes", "React Native"],
-      "img": "https://doc-0o-80-docs.googleusercontent.com/docs/securesc/e5rfesf2gib5i5iq1q5857k55t25hglq/a9a63n1huelnlle1jt6b2nt159bl8rdm/1490781600000/17955455907448639254/17955455907448639254/0B9eZfE9MPYuCZWZoek55WmJyam8?e=download&nonce=25qvi56j2llb4&user=17955455907448639254&hash=bkt02u28qg64vlk1ej01umqdblert7eb"
+      "img": "/img/projects/therunship.png"
     },
     {
       "title": "A*",
@@ -23,48 +23,48 @@
       "title": "AWIMarket",
       "source": "http://github.com/mehdichamouma/AWIMarket",
       "description": "Interoperable Ecommerce",
-      "img": "https://raw.githubusercontent.com/Azar06/AWIMarket/master/screenshots/app.png",
+      "img": "/img/projects/awimarket.png",
       "keywords": ["NodeJS", "VueJS", "Neo4J"]
     },
     {
       "title": "ATGC Benchmark Tool",
       "source": "https://github.com/mehdichamouma/atgc",
       "description": "Clustered environment to benchmark phylogenetic softwares",
-      "img": "https://lh4.googleusercontent.com/FZcv_lIk-UFif-bvf6Sp-fa7EDAFBHrU6KxqYsDb-JsaNrANTZ0DgpNqLyCeYzT4ammTYaPuZgCRPzDPPa2gwrSO35ZdAheslYP55GScynY2O-CxwfLBDW8nCsNDFf2TwoP4qrbWCtyl7po_Bw",
+      "img": "/img/projects/atgc.png",
       "keywords": ["NodeJS", "Redis", "MongoDB", "ReactJS"]
     },
     {
       "title": "Scala Web Application",
       "source": "http://github.com/mehdichamouma/session-montpellier",
       "description": "Social Network in Scala",
-      "img": "https://i.ytimg.com/vi/eNCerkVyQdc/maxresdefault.jpg",
+      "img": "/img/projects/scala.jpg",
       "keywords": ["Scala", "Playframework", "AngularJS"]
     },
     {
       "title": "Do It Yourself",
       "source": "https://github.com/digyprojectgl/ProjectDigy",
       "description": "E-commerce in JAVA",
-      "img": "https://support.omnikles.com/wp-content/uploads/java-1.png",
+      "img": "/img/projects/java.png",
       "keywords": ["Java J2EE"]
     },
     {
       "title": "Haskelog",
       "source": "https://github.com/mehdichamouma/Haskelog",
       "description": "Recursive query language in Haskell",
-      "img": "http://3.bp.blogspot.com/-sSNYosPbk3o/UtM3TBCX4lI/AAAAAAAAAHs/T1Z3qd4vft0/s1600/Haskell-Variation+(logo+only)-medium.png",
+      "img": "/img/projects/haskell.png",
       "keywords": ["Java J2EE"]
     },
     {
       "title": "GBStock",
       "source": "https://github.com/mehdichamouma/GBStock",
       "description": "JS FullStack web-application",
-      "img": "https://raw.githubusercontent.com/mehdichamouma/GBStock/master/screenshots/app.png",
+      "img": "/img/projects/gbstock.png",
       "keywords": ["NodeJS", "VueJS", "MySQL"]
     },
     {
       "title": "Fisu",
       "description": "Montpellier Fisu event IOS app in Swift",
-      "img": "http://images.anandtech.com/doci/9833/CVU-IXFUkAAlGZK%20(1)_678x452.png",
+      "img": "/img/projects/swift.png",
       "keywords": ["XCode", "Swift"],
       "source": "https://github.com/mehdichamouma/Fisu"
     }

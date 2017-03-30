@@ -17,7 +17,7 @@
       "source": "http://github.com/mehdichamouma/astar",
       "description": "A* greedy algorithm implementation",
       "keywords": ["Javascript", "ReactJS", "Bootstrap"],
-      "img": "https://raw.githubusercontent.com/mehdichamouma/astar/master/app.png"
+      "img": "/img/projects/astar.png"
     },
     {
       "title": "AWIMarket",
